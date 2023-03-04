@@ -1,0 +1,28 @@
+{
+  "name": "30-days-js-platzi",
+  "version": "1.0.0",
+  "description": "List of all the challenges from 30 days of javascript by Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZajithCorro/30-days-js-platzi.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Typescript",
+    "vitest",
+    "platzi"
+  ],
+  "author": "Zajith Corro <zajithcorro@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZajithCorro/30-days-js-platzi/issues"
+  },
+  "homepage": "https://github.com/ZajithCorro/30-days-js-platzi#readme",
+  "dependencies": {
+    "vitest": "^0.29.2"
+  }
+}
